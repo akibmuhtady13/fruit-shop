@@ -1,0 +1,20 @@
+.icon-container {
+    width: 60px;
+    height: 60px; 
+    border-radius: 50%; 
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon-container i {
+    color: rgb(0, 0, 0); 
+    font-size: 24px; 
+  }
+
+
+
+  
+ 
+  
